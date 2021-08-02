@@ -14,15 +14,15 @@ JVM 全称为Java Virtual  Machine ,JAVA程序的**运行环境**（JAVA二进�
 
 ## 常见的JVM
 
-<img src="D:\桌面\20200914100723848.png" style="zoom:33%;" />
+![](/home/huangrui/Documents/typro/jvm/浅入理解Java虚拟机(雾/20200914100723848.png)
 
 ## JVM JRE JDK的区别
 
-<img src="D:\桌面\525d84b7d526290a7c88900636ed1033.png" style="zoom: 33%;" />
+![](/home/huangrui/Documents/typro/jvm/浅入理解Java虚拟机(雾/525d84b7d526290a7c88900636ed1033.png)
 
 ## JVM 的结构
 
-<img src="D:\桌面\8d1de13006ae9e0dd40d5e1db98a81c81603447597022.png" style="zoom: 33%;" />
+![](/home/huangrui/Documents/typro/jvm/浅入理解Java虚拟机(雾/8d1de13006ae9e0dd40d5e1db98a81c81603447597022-16278894264031.png)
 
 由此图可以得知：
 
